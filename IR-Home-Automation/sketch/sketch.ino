@@ -48,7 +48,7 @@
    
  */
 
-#include<IRremote.h>      //including infrared remote header file
+#include<IRremote.h>      //including IRremote.h library zip file
 
 #define power 16580863            //code for power button
 #define button_1 16582903         //code for button 1
